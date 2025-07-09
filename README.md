@@ -1,7 +1,7 @@
 # Vitor Alcântara Batista  
 **Data Scientist | Software Engineer | Educator**  
-📍 Rua Doutor Satamini, 186/105 – Tijuca – Rio de Janeiro/RJ, Brazil  
-📞 +55 21-99636-2745 | ✉️ vabatista@gmail.com  
+📍 Rio de Janeiro/RJ, Brazil  
+✉️ vabatista@gmail.com  
 🌐 [GitHub](https://github.com/vabatista) | 🌐 [Kaggle](https://www.kaggle.com/vabatista/code) | 🎥 [YouTube (Portuguese)](https://www.youtube.com/user/vitinhoalcantara/videos)  
 📅 Updated: Jul, 2025
 
